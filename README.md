@@ -123,3 +123,6 @@ print(prediction)
 ### Conclusion
 
 This Stock Price Predictor project demonstrates how to use historical stock data and machine learning techniques to predict future stock prices. By following the steps outlined in this README, you can set up and run the predictor on your own machine.
+
+![image](https://github.com/GeetGhai/Stock-Market-Predictor/assets/154088899/e4a90991-f43c-4e90-826e-c6fddc6e8881)
+
