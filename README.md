@@ -1,5 +1,5 @@
 ### Stock Price Predictor
-
+![image](https://github.com/GeetGhai/Stock-Market-Predictor/assets/154088899/14e6e895-6b10-42b3-bbe9-5c004decfb17)
 ### Overview
 
 This project is a Stock Price Predictor that leverages machine learning techniques to forecast stock prices. The predictor is built using Python and various data science libraries to analyze historical stock data and make predictions.
